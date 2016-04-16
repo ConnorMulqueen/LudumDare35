@@ -16,6 +16,7 @@ TagManager:
   - Water
   - hurtBox
   - platform
+  - Gold
   layers:
   - Default
   - TransparentFX
