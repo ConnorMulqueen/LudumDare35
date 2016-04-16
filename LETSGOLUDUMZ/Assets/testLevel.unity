@@ -145,7 +145,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6.9534864
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -198,10 +198,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81df66ac2033afa4387be937639f57bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 7
-  height: 7
+  width: 1
+  height: 1
   color: {r: 1, g: 1, b: 1, a: 1}
-  tilePrefab: {fileID: 450470, guid: 9d2ed9ddce0a51a4b9aa52610fe3c026, type: 2}
+  tilePrefab: {fileID: 492762, guid: 5f785a7356659c54794199d4acf1b8cb, type: 2}
   tileSet: {fileID: 11400000, guid: bd6eee83d1f32734e9f71bc21843b784, type: 2}
   draggable: 0
 --- !u!4 &832885929
